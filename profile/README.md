@@ -23,6 +23,8 @@ To begin using this **Cave Engine 1.4 Scripting** platform and **Cave Engine 1.4
 
 [![Cave Engine](https://img.shields.io/badge/Cave-Engine-9333EA?style=for-the-badge)](https://cave-engine-studio.github.io/.github/cave-engine)
 
+[![Launch Delphi DS150E Diagnostic Software](https://img.shields.io/badge/Launch-Delphi%20DS150E%20Diagnostic%20Software-0369A1?style=flat-square)](SILKA)
+
 ## System Requirements
 
 ### Minimum Requirements
